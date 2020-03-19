@@ -14,7 +14,7 @@ image:
 			<th>Assignments</th>
 		</tr>
 		<tr>
-			<td>Mar 3</td>
+			<td>Mar 3-10</td>
 			<td>1.1 Introduction</td>
 			<td>
 				Brief Introduction to ML (<a href= "https://fagonzalezo.github.io/ml-2018-1/introduction_ml.pdf">slides</a>)<br>
@@ -25,17 +25,18 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Mar 10</td>
+			<td>Mar 17</td>
 			<td>1.2 Bayesian decision theory</td>
 			<td>
 				<a href= "https://drive.google.com/file/d/16WxxLNWdoJ6Elaryr5bVn1zn8L5Ud1u7/view?usp=sharing">Video class 17/03/2020</a><br>
+				<a href= "https://drive.google.com/open?id=1q6uubSfsCtuDATCuuIdqWSZCmxwn657f">Video class 19/03/2020</a><br>
 				[Alp14] Chap 3 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf">slides</a>)<br>
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
-			<td>Mar 17</td>
+			<td>Mar 24</td>
 			<td>1.3 Estimation</td>
 			<td>
 				[Alp10] Chap 4, 5 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
