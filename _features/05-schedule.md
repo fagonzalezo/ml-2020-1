@@ -28,6 +28,7 @@ image:
 			<td>Mar 10</td>
 			<td>1.2 Bayesian decision theory</td>
 			<td>
+				<a href= "https://drive.google.com/file/d/16WxxLNWdoJ6Elaryr5bVn1zn8L5Ud1u7/view?usp=sharing">Video class 17/03/2020</a>
 				[Alp14] Chap 3 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf">slides</a>)<br>
 			</td>
 			<td>
