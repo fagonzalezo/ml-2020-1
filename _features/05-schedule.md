@@ -28,8 +28,8 @@ image:
 			<td>Mar 17</td>
 			<td>1.2 Bayesian decision theory</td>
 			<td>
-				<a href= "https://drive.google.com/file/d/16WxxLNWdoJ6Elaryr5bVn1zn8L5Ud1u7/view?usp=sharing">Video class 17/03/2020</a><br>
-				<a href= "https://drive.google.com/open?id=1q6uubSfsCtuDATCuuIdqWSZCmxwn657f">Video class 19/03/2020</a><br>
+				<a href= "https://drive.google.com/file/d/16WxxLNWdoJ6Elaryr5bVn1zn8L5Ud1u7/view?usp=sharing">Class video 17/03/2020</a><br>
+				<a href= "https://drive.google.com/open?id=1q6uubSfsCtuDATCuuIdqWSZCmxwn657f">Class video 19/03/2020</a><br>
 				[Alp14] Chap 3 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf">slides</a>)<br>
 			</td>
 			<td>
@@ -39,6 +39,7 @@ image:
 			<td>Mar 24</td>
 			<td>1.3 Estimation</td>
 			<td>
+				<a href= "https://drive.google.com/file/d/1myrajgABC6pbuw-CXFH2lIQIBVNVLFfn/view?usp=sharing">Class video 24/03/2020</a><br>
 				[Alp10] Chap 4, 5 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
 				Bias and variance (<a href= "http://nbviewer.ipython.org/6788818">Jupyter notebook</a>)<br>
 			</td>
