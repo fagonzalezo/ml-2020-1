@@ -52,6 +52,7 @@ image:
 			</td>
 			<td>1.5 Design and analysis of ML experiments</td>
 			<td>
+				<a href= "https://drive.google.com/file/d/1fS3b65nWyouvrv1nAULMwiXV8ZLUuAfY/view?usp=sharing">Class video 26/03/2020</a><br>
 				[Alp10] Chap 19 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>)<br>
 			</td>
 			<td>
