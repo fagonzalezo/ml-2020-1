@@ -54,16 +54,18 @@ image:
 			<td>
 				<a href= "https://drive.google.com/file/d/1fS3b65nWyouvrv1nAULMwiXV8ZLUuAfY/view?usp=sharing">Class video 26/03/2020</a><br>
 				<a href= "https://drive.google.com/file/d/1rroI1opT9lTSRoFBDW6Gmxpvl3Z75EUc/view?usp=sharing">Class video 31/03/2020</a><br>
-				[Alp10] Chap 19 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>) (<a href= "https://drive.google.com/file/d/1h-HlMMzZid0uVtRFQupZkqR9Uyi5aw4n/view?usp=sharing">annotated slides</a>)<br>
+				<a href= "https://drive.google.com/file/d/1TKRL34XTRSx2d6kFcVyacGb01eSJrdiX/view?usp=sharing">Class video 14/04/2020</a><br>
+				[Alp10] Chap 19 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>) (<a href= "https://drive.google.com/file/d/1rtXR6oHhXJEFV2LsoQKkvD-YIJa_KNnc/view?usp=sharing">annotated slides</a>)<br>
 			</td>
 			<td>
 				<a href= "assign2.pdf">Assignment 2</a>
 			</td>
 		</tr>
 		<tr>
-			<td>Mar 31</td>
+			<td>Abr 13</td>
 			<td>2.1 Kernel methods basics</td>
 			<td>
+				<a href= "https://drive.google.com/file/d/19cqiLcSJJOYFwDqGr-0HwfkbGfDTEpI5/view?usp=sharing">Class video 16/04/2020</a><br>
 				Introduction to kernel methods (<a href= "https://fagonzalezo.github.io/ml-2016-2/kernels.pdf">slides</a>)<br>
 				[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
 			</td>
