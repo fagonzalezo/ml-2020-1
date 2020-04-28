@@ -62,20 +62,22 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Abr 13</td>
+			<td>Apr 14</td>
 			<td>2.1 Kernel methods basics</td>
 			<td>
 				<a href= "https://drive.google.com/file/d/19cqiLcSJJOYFwDqGr-0HwfkbGfDTEpI5/view?usp=sharing">Class video 16/04/2020</a><br>
-				Introduction to kernel methods (<a href= "https://fagonzalezo.github.io/ml-2016-2/kernels.pdf">slides</a>)<br>
+				<a href= "https://drive.google.com/file/d/1yHQTsOX_ImwtD2YCocENVaPj05MVU0Gm/view?usp=sharing">Class video 21/04/2020</a><br>
+				Introduction to kernel methods (<a href= "https://fagonzalezo.github.io/ml-2016-2/kernels.pdf">slides</a>) (<a href= "https://drive.google.com/file/d/1-KWOow4Bb1YWrFjjvt4LkMuC0OGwUzSA/view?usp=sharing">annotated slides</a>)<br>
 				[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 14</td>
+			<td>Apr 21-28</td>
 			<td>2.2 Support vector learning</td>
 			<td>
+				<a href= "https://drive.google.com/file/d/1nKFlXYi90BeCuSSnq929-SooBndQw-k_/view?usp=sharing">Class video 23/04/2020</a><br>
 				[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
 				<a href="http://axiom.anu.edu.au/%7Edaa/courses/GSAC6017/tekbac_4.pdf">An
 					introduction to ML</a>, Smola<br>
@@ -87,7 +89,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 21</td>
+			<td>May 5</td>
 			<td>3.1 Neural network basics </td>
 			<td>
 				[Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
@@ -99,7 +101,7 @@ image:
 		</tr>
 		<tr>
 			<td>
-				Apr 28 
+				May 12 
 			</td>
 			<td>
 			3.2 Deep learning <br>
@@ -112,7 +114,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 5</td>
+			<td>May 19</td>
 			<td>3.2 Deep learning</td>
 			<td>
 				Deep learning frameworks (<a href= "ML Deep Learning Frameworks.pdf">slides</a>)<br>
@@ -123,7 +125,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 12</td>
+			<td>May 26</td>
 			<td>3.3 Convolutional neural networks</td>
 			<td>
 				CNN for image classification en Keras (<a href= "https://colab.research.google.com/drive/1Wb94CUIJdB1Z-S6mFhxsxB4v6SzmF7sN">Jupyter notebook</a>)<br>
@@ -134,7 +136,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 19</td>
+			<td>Jun 2</td>
 			<td>3.4 Recurrent neural networks</td>
 			<td>
 				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-CNN-sentence-classification.ipynb">CNN for text classification handout</a> <br>
@@ -144,7 +146,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 26</td>
+			<td>Jun 9</td>
 			<td>3.5 Deep generative models</td>
 			<td>Alexander Amini, Deep generative models (<a href= "http://introtodeeplearning.com/materials/2019_6S191_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=yFBFl1cLYx8&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>) 
 			</td>
@@ -152,7 +154,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 2</td>
+			<td>Jun 16</td>
 			<td>4.1 Bayesian Methods<br>
 			4.2 Monte Carlo inference</td>
 			<td>
@@ -165,7 +167,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 9</td>
+			<td>Jun 23</td>
 			<td>4.3 Variational Bayes</td>
 			<td>
 			<a href= "https://colab.research.google.com/drive/1xIC_Y5T7IwkJz0SNQyRSlRfDf2fDRvbv">Variational Bayes in Tensorflow</a> <br>
