@@ -87,6 +87,7 @@ image:
 				Máquinas de vectores de soporte y selección de modelos (<a href="https://drive.google.com/file/d/1X4b_5FMHDs7EtbwPzw7YDeMF5V4pqoer/view?usp=sharing">Jupyter Notebook</a>)<br>
 			</td>
 			<td>
+				<a href= "assign3.pdf">Assignment 2</a>
 			</td>
 		</tr>
 		<tr>
