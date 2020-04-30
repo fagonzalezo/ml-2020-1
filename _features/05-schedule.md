@@ -78,9 +78,10 @@ image:
 			<td>2.2 Support vector learning</td>
 			<td>
 				<a href= "https://drive.google.com/file/d/1nKFlXYi90BeCuSSnq929-SooBndQw-k_/view?usp=sharing">Class video 23/04/2020</a><br>
+				<a href= "https://drive.google.com/file/d/1pwynrZAKI33-t3QWNzFJNniCNpY_vnjo/view?usp=sharing">Class video 28/04/2020</a><br>
 				[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
 				<a href="http://axiom.anu.edu.au/%7Edaa/courses/GSAC6017/tekbac_4.pdf">An
-					introduction to ML</a>, Smola<br>
+					introduction to ML</a>, Smola (<a href= "https://drive.google.com/file/d/1DY1tHPohV6amOLhCGBPaIMk9-9neAVKm/view?usp=sharing">annotated slides</a>)<br>
 				<a href="http://www1.cs.columbia.edu/%7Ekathy/cs4701/documents/jason_svm_tutorial.pdf">Support
 					Vector Machine Tutorial</a>, Weston<br>
 				Máquinas de vectores de soporte y selección de modelos (<a href="https://drive.google.com/file/d/1X4b_5FMHDs7EtbwPzw7YDeMF5V4pqoer/view?usp=sharing">Jupyter Notebook</a>)<br>
