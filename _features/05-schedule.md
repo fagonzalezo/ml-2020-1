@@ -94,6 +94,7 @@ image:
 			<td>May 5</td>
 			<td>3.1 Neural network basics </td>
 			<td>
+				<a href= "https://drive.google.com/file/d/1wAR3ApxcYAVF2TmEc6-gVTJIvLKotucr/view?usp=sharing">Class video 05/05/2020</a><br>
 				[Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
 				Quick and dirty introduction to neural networks (<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">Jupyter notebook</a>)<br>
 				<a href= "https://fagonzalezo.github.io/ml-2018-1/backpropagation.pdf">Backpropagation derivation handout</a>
