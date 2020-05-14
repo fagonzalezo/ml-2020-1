@@ -111,6 +111,7 @@ image:
 			3.2 Deep learning <br>
 			</td>
 			<td>
+				<a href= "https://drive.google.com/file/d/17qsyxm1D4KE9Ztm2nivrpDTvO6xbeV2K/view?usp=sharing">Class video 12/05/2020</a><br>
 				Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
 				<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial</a> <br>
 			</td>
