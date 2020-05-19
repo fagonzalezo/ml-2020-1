@@ -123,8 +123,8 @@ image:
 			<td>3.2 Deep learning</td>
 			<td>
 				Deep learning frameworks (<a href= "ML Deep Learning Frameworks.pdf">slides</a>)<br>
-				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1jlmRcg5Ea1ysCf9NlOOQP9y3R8MufR-l">Jupyter notebook</a>)<br>
-				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/127-2M415lF-TFDe-T2tM_IZuhhU1yYhZ">Jupyter notebook</a>)<br>
+				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1cjmAU2v0oDZawN9AAZshz4t6AhqDOBf-">Jupyter notebook</a>)<br>
+				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
 			</td>
 			<td>
 			</td>
