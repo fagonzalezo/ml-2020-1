@@ -122,6 +122,7 @@ image:
 			<td>May 19</td>
 			<td>3.2 Deep learning</td>
 			<td>
+				<a href= "https://drive.google.com/file/d/1DOmG7CDX7vrRM9jZDBL7w0hnzR6nFdaB/view?usp=sharing">Class video 19/05/2020</a><br>
 				Deep learning frameworks (<a href= "ML Deep Learning Frameworks.pdf">slides</a>)<br>
 				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1cjmAU2v0oDZawN9AAZshz4t6AhqDOBf-">Jupyter notebook</a>)<br>
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
@@ -133,11 +134,13 @@ image:
 			<td>May 26</td>
 			<td>3.3 Convolutional neural networks</td>
 			<td>
+				<a href= "https://drive.google.com/file/d/1xH_PHnbOMxCtRaXH6YGCusxk_U6c99rG/view?usp=sharing">Class video 26/05/2020</a><br>
 				CNN for image classification en Keras (<a href= "https://colab.research.google.com/drive/1Wb94CUIJdB1Z-S6mFhxsxB4v6SzmF7sN">Jupyter notebook</a>)<br>
 				<a href= "https://cs.stanford.edu/people/karpathy/convnetjs/">ConvNetJS demos</a><br>
 				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a><br>
 			</td>
 			<td>
+				<a href= "assign4.pdf">Assignment 3</a>
 			</td>
 		</tr>
 		<tr>
