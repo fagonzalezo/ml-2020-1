@@ -135,6 +135,7 @@ image:
 			<td>3.3 Convolutional neural networks</td>
 			<td>
 				<a href= "https://drive.google.com/file/d/1xH_PHnbOMxCtRaXH6YGCusxk_U6c99rG/view?usp=sharing">Class video 26/05/2020</a><br>
+				<a href= "https://drive.google.com/file/d/1Ekqk1AALMyIp1zt2Fh8mIwywz6T1BoPR/view?usp=sharing">Class video 28/05/2020</a><br>
 				CNN for image classification en Keras (<a href= "https://colab.research.google.com/drive/1Wb94CUIJdB1Z-S6mFhxsxB4v6SzmF7sN">Jupyter notebook</a>)<br>
 				<a href= "https://cs.stanford.edu/people/karpathy/convnetjs/">ConvNetJS demos</a><br>
 				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a><br>
@@ -148,7 +149,7 @@ image:
 			<td>3.4 Recurrent neural networks</td>
 			<td>
 				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-CNN-sentence-classification.ipynb">CNN for text classification handout</a> <br>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">LSTM language model handout</a> <br>
+				<a href= "https://colab.research.google.com/drive/1DbCuNqQ8wwDAqnWJxrEnyKey_zgWD-5p?usp=sharing">LSTM language model handout</a> <br>
 			</td>
 			<td>
 			</td>
