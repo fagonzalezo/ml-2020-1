@@ -160,8 +160,10 @@ image:
 			<td>Jun 9</td>
 			<td>3.5 Deep generative models</td>
 			<td>Alexander Amini, Deep generative models (<a href= "http://introtodeeplearning.com/materials/2019_6S191_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=yFBFl1cLYx8&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>) 
+			Deep generative models (<a href= "https://drive.google.com/file/d/10mZlO1b6zPfCig9bc-mKHPqP84ldCTeG/view?usp=sharing">Jupyter notebook</a>)
 			</td>
 			<td>
+				<a href= "https://www.dropbox.com/request/hsGqc21p2qJn04MPkzJy">Project proposal</a>: Maximum 2 pages describing  problem, objectives and method (17/06/20).
 			</td>
 		</tr>
 		<tr>
