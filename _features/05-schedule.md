@@ -182,7 +182,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 23</td>
+			<td>Jun 30</td>
 			<td>4.3 Variational Bayes</td>
 			<td>
 			<a href= "https://colab.research.google.com/drive/1xIC_Y5T7IwkJz0SNQyRSlRfDf2fDRvbv">Variational Bayes in Tensorflow</a> <br>
