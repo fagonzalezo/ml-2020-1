@@ -145,7 +145,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 2</td>
+			<td>Jun 2-9</td>
 			<td>3.4 Recurrent neural networks</td>
 			<td>
 				<a href= "https://drive.google.com/file/d/1exxGq3X1mDHqhMMDiA0Q_mhqy0MvpE8U/view?usp=sharing">Class video 4/06/2020</a><br>
@@ -157,7 +157,8 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 9</td>
+			<td>Jun 16</td>
+			<a href= "https://drive.google.com/file/d/1GpJ1mVgOOGjH2QeXacFFmgjtDZVGnCBe/view?usp=sharing">Class video 18/06/2020</a><br>
 			<td>3.5 Deep generative models</td>
 			<td>Alexander Amini, Deep generative models (<a href="http://introtodeeplearning.com/2019/materials/2019_6S191_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=yFBFl1cLYx8&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>)<br>
 			Deep generative models (<a href= "https://drive.google.com/file/d/10mZlO1b6zPfCig9bc-mKHPqP84ldCTeG/view?usp=sharing">Jupyter notebook</a>)
@@ -167,10 +168,11 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 16</td>
+			<td>Jun 23</td>
 			<td>4.1 Bayesian Methods<br>
 			4.2 Monte Carlo inference</td>
 			<td>
+			<a href= "https://drive.google.com/file/d/1CZ7jql9BhWdBHKxI8BCLf1pdHV80rQbr/view?usp=sharing">Class video 23/06/2020</a><br>
 			Radford M. Neal, Bayesian Methods for Machine Learning (<a href= "https://www.cs.toronto.edu/~radford/ftp/bayes-tut.pdf">slides</a>)<br>
 			Beery et al., Markov Chain Monte Carlo for Machine Learning, Adv Topics in ML, Caltech (<a href= "https://taehwanptl.github.io/lectures/lecture_04_20.pdf">slides</a>)<br>
 			Alex Rogozhnikov, <a href= "https://taehwanptl.github.io/lectures/lecture_04_20.pdf">Hamiltonian Monte Carlo explained
