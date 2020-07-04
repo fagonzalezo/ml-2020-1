@@ -173,6 +173,7 @@ image:
 			4.2 Monte Carlo inference</td>
 			<td>
 			<a href= "https://drive.google.com/file/d/1CZ7jql9BhWdBHKxI8BCLf1pdHV80rQbr/view?usp=sharing">Class video 23/06/2020</a><br>
+			<a href= "https://drive.google.com/file/d/19y2F4aS0gNcV0EPfFOMUlrBYu6GHlNrZ/view?usp=sharing">Class video 25/06/2020</a><br>
 			Radford M. Neal, Bayesian Methods for Machine Learning (<a href= "https://www.cs.toronto.edu/~radford/ftp/bayes-tut.pdf">slides</a>)<br>
 			Beery et al., Markov Chain Monte Carlo for Machine Learning, Adv Topics in ML, Caltech (<a href= "https://taehwanptl.github.io/lectures/lecture_04_20.pdf">slides</a>)<br>
 			Alex Rogozhnikov, <a href= "https://taehwanptl.github.io/lectures/lecture_04_20.pdf">Hamiltonian Monte Carlo explained
@@ -185,6 +186,7 @@ image:
 			<td>Jun 30</td>
 			<td>4.3 Variational Bayes</td>
 			<td>
+			<a href= "https://drive.google.com/file/d/1XO-RjjYEbB2zIvzxc_I9R_ww8RWgBSlI/view?usp=sharing">Class video 30/06/2020</a><br>
 			<a href= "https://colab.research.google.com/drive/1xIC_Y5T7IwkJz0SNQyRSlRfDf2fDRvbv">Variational Bayes in Tensorflow</a> <br>
 			<a href= "https://colab.research.google.com/drive/1xX11qB8Ls9t_wuvRYHQp1_v-qBImVkt1">Variational Autoencoders in Tensorflow</a> <br>
 			</td>
