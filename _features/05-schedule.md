@@ -191,6 +191,7 @@ image:
 			<a href= "https://colab.research.google.com/drive/1xX11qB8Ls9t_wuvRYHQp1_v-qBImVkt1">Variational Autoencoders in Tensorflow</a> <br>
 			</td>
 			<td>
+				<a href= "project.pdf">Final Project</a>
 			</td>
 		</tr>
 	</tbody>
