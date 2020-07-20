@@ -11,7 +11,8 @@ div.gallery1 {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;
+  width: 200px;
+  height: 400px;
 }
 
 div.gallery1:hover {
@@ -21,6 +22,7 @@ div.gallery1:hover {
 div.gallery1 img {
   width: 100%;
   height: auto;
+  border-radius: 5px;
 }
 
 div.desc {
@@ -28,43 +30,6 @@ div.desc {
   text-align: center;
 }
 </style>
-
-<div class="gallery1">
-  <a target="_blank" href="project/poster-jasedanod-niparrara-dfricoh.pdf">
-    <img src="project/poster-jasedanod-niparrara-dfricoh.pdf.jpg" alt="poster-jasedanod-niparrara-dfricoh" width="600" height="400">
-  </a>
-  <div class="desc">Trash Image Classification Using Deep Learning
-  (<a href= "https://youtu.be/LKcal-lK6Q4">video</a>)
-  </div>
-</div>
-
-<div class="gallery1">
-  <a target="_blank" href="project/Poster-miaortizma_dcabrerat_dagaravitoj.pdf">
-    <img src="project/Poster-miaortizma_dcabrerat_dagaravitoj.pdf.jpg" alt="Poster-miaortizma_dcabrerat_dagaravitoj" width="600" height="400">
-  </a>
-  <div class="desc">Automatic detection of hand washing quality using deep learning
-  (<a href= "https://www.youtube.com/watch?v=TjLdP1-_4Io">video</a>)
-  </div>
-</div>
-
-
-<div class="gallery1">
-  <a target="_blank" href="project/ml-poster-jiapulidoar-lbsantosg-jschavesr.pdf">
-    <img src="project/ml-poster-jiapulidoar-lbsantosg-jschavesr.pdf.jpg" alt="ml-poster-jiapulidoar-lbsantosg-jschavesr" width="600" height="400">
-  </a>
-  <div class="desc">Painter Classification Using Deep Learning
-  (<a href= "https://www.youtube.com/watch?v=L2j3HllSZV0">video</a>)
-  </div>
-</div>
-
-<div class="gallery1">
-  <a target="_blank" href="project/ml-poster-ansuarezm-hmtoquicac-deperazar_vf.pdf">
-    <img src="project/ml-poster-ansuarezm-hmtoquicac-deperazar_vf.pdf.jpg" alt="ml-poster-ansuarezm-hmtoquicac-deperazar" width="600" height="400">
-  </a>
-  <div class="desc">Classification of Music by Genre
-  (<a href= "https://www.youtube.com/watch?v=wIXYN4y_Tng">video</a>)
-  </div>
-</div>
 
 <div class="gallery1">
   <a target="_blank" href="project/ml-project-esgantivar-diusecher-poster.pdf">
@@ -127,5 +92,42 @@ div.desc {
   </a>
   <div class="desc">Manipulating phase of the Fourier Transformation for pattern recognition of prostate cancer in MRI
   (<a href= "https://youtu.be/0jp1Ql6h1Zg">video</a>)
+  </div>
+</div>
+
+<div class="gallery1">
+  <a target="_blank" href="project/poster-jasedanod-niparrara-dfricoh.pdf">
+    <img src="project/poster-jasedanod-niparrara-dfricoh.pdf.jpg" alt="poster-jasedanod-niparrara-dfricoh" width="600" height="400">
+  </a>
+  <div class="desc">Trash Image Classification Using Deep Learning
+  (<a href= "https://youtu.be/LKcal-lK6Q4">video</a>)
+  </div>
+</div>
+
+<div class="gallery1">
+  <a target="_blank" href="project/Poster-miaortizma_dcabrerat_dagaravitoj.pdf">
+    <img src="project/Poster-miaortizma_dcabrerat_dagaravitoj.pdf.jpg" alt="Poster-miaortizma_dcabrerat_dagaravitoj" width="600" height="400">
+  </a>
+  <div class="desc">Automatic detection of hand washing quality using deep learning
+  (<a href= "https://www.youtube.com/watch?v=TjLdP1-_4Io">video</a>)
+  </div>
+</div>
+
+
+<div class="gallery1">
+  <a target="_blank" href="project/ml-poster-jiapulidoar-lbsantosg-jschavesr.pdf">
+    <img src="project/ml-poster-jiapulidoar-lbsantosg-jschavesr.pdf.jpg" alt="ml-poster-jiapulidoar-lbsantosg-jschavesr" width="600" height="400">
+  </a>
+  <div class="desc">Painter Classification Using Deep Learning
+  (<a href= "https://www.youtube.com/watch?v=L2j3HllSZV0">video</a>)
+  </div>
+</div>
+
+<div class="gallery1">
+  <a target="_blank" href="project/ml-poster-ansuarezm-hmtoquicac-deperazar_vf.pdf">
+    <img src="project/ml-poster-ansuarezm-hmtoquicac-deperazar_vf.pdf.jpg" alt="ml-poster-ansuarezm-hmtoquicac-deperazar" width="600" height="400">
+  </a>
+  <div class="desc">Classification of Music by Genre
+  (<a href= "https://www.youtube.com/watch?v=wIXYN4y_Tng">video</a>)
   </div>
 </div>
