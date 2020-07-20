@@ -7,7 +7,7 @@ image:
 ---
 
 * Assignments 30%
-* Quices 20%
+* Quizzes 20%
 * Exam 30%
 * Final project 20%
 
