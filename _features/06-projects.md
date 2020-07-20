@@ -31,6 +31,16 @@ div.desc {
 </style>
 
 <div class="gallery1">
+  <a target="_blank" href="project/Poster-jdnietov-ncampuzanoa.pdf">
+    <img src="project/Poster-jdnietov-ncampuzanoa.pdf.jpg" alt="jdnietov-ncampuzanoa" width="600" height="400">
+  </a>
+  <div class="desc">Multimodality in fake news detection using neural networks and support vector machines
+  (<a href= "https://www.youtube.com/watch?v=ahTxzK4dR48">video</a>)
+  </div>
+</div>
+
+
+<div class="gallery1">
   <a target="_blank" href="project/ml-project-esgantivar-diusecher-poster.pdf">
     <img src="project/ml-project-esgantivar-diusecher-poster.pdf.jpg" alt="ml-project-esgantivar-diusecher" width="600" height="400">
   </a>
@@ -45,15 +55,6 @@ div.desc {
   </a>
   <div class="desc">Deep Learning for Detection of Diabetic Retinopathy in Retinal Fundus Images
   (<a href= "https://www.youtube.com/watch?v=UUKGujN67lI">video</a>)
-  </div>
-</div>
-
-<div class="gallery1">
-  <a target="_blank" href="project/Poster-jdnietov-ncampuzanoa.pdf">
-    <img src="project/Poster-jdnietov-ncampuzanoa.pdf.jpg" alt="jdnietov-ncampuzanoa" width="600" height="400">
-  </a>
-  <div class="desc">Multimodality in fake news detection using neural networks and support vector machines
-  (<a href= "https://www.youtube.com/watch?v=ahTxzK4dR48">video</a>)
   </div>
 </div>
 
