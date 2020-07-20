@@ -11,8 +11,7 @@ div.gallery1 {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 300px;
-  height: 600px;
+  width: 180px;
 }
 
 div.gallery1:hover {
